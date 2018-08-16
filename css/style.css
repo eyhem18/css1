@@ -1,0 +1,83 @@
+*{ padding: 0;  margin: 0; }
+
+h1{
+	color:white;
+	font-size:55px;
+	padding-right:700px;
+	padding-bottom:800px; 
+	padding-top: 300px;
+	}
+.trt{
+  background-image:url(https://bestofpuntacana.com/wp-content/uploads/2018/05/an-ode-to-plantain-on-best-of-punta-cana-green-yellow-bananas-bunch-of-them-together.jpg);
+  width: 100%;
+  height:300px;
+  font-size: 100px
+  margin-bottom: 87px; 
+  padding: 50px;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  box-shadow: 4px 4px lightgrey
+}
+body{
+	padding-bottom: 250px;
+}
+
+.trt{
+	position: relative;
+	top: -50%;
+	font-size: 6em;
+	margin-left: 150px
+	margin-bottom: 600px;
+
+}
+ .head{
+ 	padding-top: 150px;
+ }
+.az{
+	color:blue;
+	font-size:40px;
+	margin-left: 40px;
+}
+h3{
+	color: black
+	font-size:22px;
+}
+p{
+	color: black;
+}
+#hh, #ll{
+	color: white;
+}
+
+.box{
+	width: 40%;
+	display: inline-block;
+	height: 200px;
+	vertical-align: top;
+
+}
+.box:hover{
+	border: 3px solid black;
+}
+.khol{
+	background-color: grey;
+}
+.byoth{
+	background-color: lightgrey;
+}
+.loul{
+	margin-left: 10%;
+}
+.abydh{
+	color: white;
+}
+h3{
+	position: 200px;
+}
+.has1 {
+	margin-bottom: 5px;
+}
+.has3{
+	margin-top: 5px;
+}
